@@ -1,0 +1,16 @@
+.wrapper{
+    padding: 4%;
+    background-color: #131313;
+    display: flex;
+    flex-direction: column;
+}
+.movie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

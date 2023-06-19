@@ -1,0 +1,21 @@
+.wrapper{
+    margin: 0;
+    background: linear-gradient(#88a3dd, #131313 70%);
+}
+.container{
+    margin-top: 6%;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+}
+.popular{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+    border-radius: 10px;
+}
+.popular-content{
+    padding: 1%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

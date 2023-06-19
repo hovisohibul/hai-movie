@@ -1,0 +1,26 @@
+.main-card{
+    max-width: 100%;
+    margin: 1.5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.card-content{
+    position: relative;
+    box-shadow: 2px 1px 4px 0 #474343;
+    border-radius: 10px;
+}
+.card-content > img{
+    width: 200px;
+    border-radius: 10px;
+}
+.card-title{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    width: 100%;
+    text-align: center !important;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-shadow: 1px 1px 2px #000;
+    border-radius: 0 0 10px 10px;
+}
